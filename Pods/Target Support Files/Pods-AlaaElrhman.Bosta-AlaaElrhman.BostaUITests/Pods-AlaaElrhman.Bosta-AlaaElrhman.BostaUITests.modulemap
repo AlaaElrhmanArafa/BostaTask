@@ -1,0 +1,6 @@
+framework module Pods_AlaaElrhman_Bosta_AlaaElrhman_BostaUITests {
+  umbrella header "Pods-AlaaElrhman.Bosta-AlaaElrhman.BostaUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
